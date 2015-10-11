@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Applications MS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Applications MS\careerfairncandroid\app\build\intermediates\pre-dexed\debug\okio-1.6.0-43c15ed3126a6c305cda2fd2b8e4218bd1dbe75d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Applications MS\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="C:\Users\Applications MS\careerfairncandroid\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta2-9ee721a54e14a8e00c9dfc2d801276509c90912f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Applications MS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Applications MS\careerfairncandroid\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0-4c331ae34910b6a1ee383c0e839953837dcd2fdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Applications MS\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="C:\Users\Applications MS\careerfairncandroid\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta2-250527a210c40e50a0e67d545a1802b30985dc67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Applications MS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\Applications MS\careerfairncandroid\app\build\intermediates\pre-dexed\debug\gson-2.3.1-4e5a173d75c3149ea01a5a9bfc9d1346a8d9da74.jar" />
+    </item>
+
+</items>

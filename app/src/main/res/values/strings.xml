@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CareerFairNC</string>
+
+
+    <string name="hello">View Companies</string>
+    <string name="applied_companies">View Applied Companies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_dashboard">Home</string>
+    <string name="title_activity_company">Company</string>
+
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_view_applied_companies">ViewAppliedCompaniesActivity</string>
+    <string name="title_activity_applied_company">AppliedCompany</string>
+</resources>
